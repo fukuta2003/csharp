@@ -4,7 +4,7 @@ using System.Globalization;
 namespace Vetor {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Dedico meus estudos ao meu filho MIGUEL MALTA FUKUTA");
+            Console.WriteLine("Dedico meus estudos ao meu filho MIGUEL");
             Console.WriteLine("====================================================");
 
             Console.WriteLine("Quantas Posições:");
